@@ -12,23 +12,23 @@
   
 - [https://eccc.weizmann.ac.il/report/2014/084/](https://eccc.weizmann.ac.il/report/2014/084/)
 
-- Motion
+**Motion**
 
-- Dynamics
+**Dynamics**
 
-- Systems of more than one particle
+**Systems of more than one particle**
 
-- Energy
+**Energy**
 
-- The principle of least action
+**The principle of least action**
 
-- Symmetries and conservation laws
+**Symmetries and conservation laws**
 
-- Hamiltonian mechanics and time-translation invariance
+**Hamiltonian mechanics and time-translation invariance**
 
-- Phase space fluid and the Gibbs-Lioville theorem
+**Phase space fluid and the Gibbs-Lioville theorem**
 
-- Poisson brackets, angular momentum, and symmetries
+**Poisson brackets, angular momentum, and symmetries**
 
 ...
 
