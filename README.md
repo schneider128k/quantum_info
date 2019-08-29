@@ -15,6 +15,8 @@ and a stroboscopic time-evolution.
   
 - [A physically universal cellular automaton](https://eccc.weizmann.ac.il/report/2014/084/)
 
+- [Visualization of a physically universal cellular automaton](https://web.mit.edu/lrs/www/physCA/)
+
 - [Does universal controllability of physical systems prohibit thermodynamic cycles?](https://arxiv.org/pdf/1701.01591.pdf)
 
 **Motion**
