@@ -2,6 +2,11 @@
 
 ## Classical mechanics
 
+I am using the the book *The theoretical minimum : what you need to know to start doing physics* by 
+Leonard Susskind and George Hrabovsky to prepare most of the slides.
+
+We are going to be using the SymPy [classical mechanics package](https://docs.sympy.org/latest/modules/physics/mechanics/index.html) to solve some problems.
+
 **The nature of classical physics**
 
 - [The nature of classical physics](https://github.com/schneider128k/quantum_info/blob/master/classical_mechanics.pdf)
@@ -40,3 +45,6 @@ and a stroboscopic time-evolution.
 ...
 
 ## Quantum mechanics
+
+I am using the book *Quantum mechanics : the theoretical minimum* by Leonard Susskind and Art Friedman to prepare most of the slides.
+
