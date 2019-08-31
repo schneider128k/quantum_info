@@ -9,7 +9,7 @@ We are going to be using the SymPy [classical mechanics package](https://docs.sy
 
 **The nature of classical physics**
 
-- [The nature of classical physics](https://github.com/schneider128k/quantum_info/blob/master/classical_mechanics.pdf)
+- [The nature of classical physics](https://github.com/schneider128k/quantum_info/blob/master/nature_of_classical_mechanics.pdf)
 
 **Cellular automata**
 
@@ -25,6 +25,8 @@ and a stroboscopic time-evolution.
 - [Does universal controllability of physical systems prohibit thermodynamic cycles?](https://arxiv.org/pdf/1701.01591.pdf)
 
 **Motion**
+
+- [Motion](https://github.com/schneider128k/quantum_info/blob/master/motion.pdf)
 
 **Dynamics**
 
