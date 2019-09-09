@@ -30,6 +30,8 @@ and a stroboscopic time-evolution.
 
 **Dynamics**
 
+- [Dynamics](https://github.com/schneider128k/quantum_info/blob/master/dynamics.pdf)
+
 **Systems of more than one particle**
 
 **Energy**
