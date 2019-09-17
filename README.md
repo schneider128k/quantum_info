@@ -34,6 +34,8 @@ and a stroboscopic time-evolution.
 
 **Systems of more than one particle**
 
+- [Systems of more than one particle](https://github.com/schneider128k/quantum_info/blob/master/multi_particle_systems.pdf)
+
 **Energy**
 
 **The principle of least action**
