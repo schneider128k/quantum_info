@@ -40,7 +40,9 @@ and a stroboscopic time-evolution.
 
 - [Energy](https://github.com/schneider128k/quantum_info/blob/master/energy.pdf)
 
-White board lectures:
+---
+
+*No slides/white board lectures*
 
 **The principle of least action**
 
