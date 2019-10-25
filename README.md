@@ -3,7 +3,7 @@
 ## Classical mechanics
 
 I am using the the book *The theoretical minimum : what you need to know to start doing physics* by 
-Leonard Susskind and George Hrabovsky to prepare most of the slides.
+Leonard Susskind and George Hrabovsky.
 
 We are going to be using the SymPy [classical mechanics package](https://docs.sympy.org/latest/modules/physics/mechanics/index.html) to solve some problems.
 
