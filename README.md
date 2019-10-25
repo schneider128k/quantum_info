@@ -54,8 +54,6 @@ White board lectures:
 
 **Poisson brackets, angular momentum, and symmetries**
 
-...
-
 ## Quantum mechanics
 
 I cover quantum mechanics in finite-dimensional Hilbert spaces, quantum circuits, and quantum algorithms in the course *Quantum computing*. 
