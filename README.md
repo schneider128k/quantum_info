@@ -40,7 +40,11 @@ and a stroboscopic time-evolution.
 
 - [Energy](https://github.com/schneider128k/quantum_info/blob/master/energy.pdf)
 
+White board lectures:
+
 **The principle of least action**
+
+- additional materials: [Feynman lectures on the principle of least actions](http://www.feynmanlectures.caltech.edu/II_19.html)
 
 **Symmetries and conservation laws**
 
