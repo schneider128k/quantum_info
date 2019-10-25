@@ -44,7 +44,7 @@ White board lectures:
 
 **The principle of least action**
 
-- additional material: [Feynman lectures on the principle of least action](http://www.feynmanlectures.caltech.edu/II_19.html)
+- additional materials: [Feynman lectures on the principle of least action](http://www.feynmanlectures.caltech.edu/II_19.html)
 
 **Symmetries and conservation laws**
 
@@ -58,5 +58,9 @@ White board lectures:
 
 ## Quantum mechanics
 
-I am using the book *Quantum mechanics : the theoretical minimum* by Leonard Susskind and Art Friedman to prepare most of the slides.
+I cover quantum mechanics in finite-dimensional Hilbert spaces, quantum circuits, and quantum algorithms in the course *Quantum computing*. 
+
+Here I want to explain the transition from classical mechanics to quantum mechanics.
+
+I am using the book *Quantum mechanics : the theoretical minimum* by Leonard Susskind and Art Friedman.  I will also use other materials.
 
